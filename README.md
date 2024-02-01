@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-arnascimento/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthur.arnascimento)
 
-![Arthur Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralef&show_icons=true&theme=tokyonight)
+![Arthur Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralef&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralef&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralef&layout=compact&theme=radical)
 
 ## Tecnologias
 <div style="display: inline_block"><br/>
