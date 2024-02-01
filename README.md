@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**arthuralef/arthuralef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Arthur Nascimento 👋
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-arnascimento/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@arthur.arnascimento)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Arthur Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=arthuralef&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthuralef&layout=compact)
+
+## Tecnologias
+<div style="display: inline_block"><br/>
+
+<img align="center" alt="javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="center" alt="typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="nodejs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"" />
+<img align="center" alt="html5" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+<img align="center" alt="css3" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</div>
+<br/>
+Apaixonado por tecnologia e em compartilhar conhecimento! 
